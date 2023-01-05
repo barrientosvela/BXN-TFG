@@ -1,0 +1,10 @@
+form {
+    margin-top: 40px;
+    width: 80%;
+    border: none;
+    border-radius: 10px;
+    padding: 50px;
+    box-shadow: -10px 10px 20px #a0a0a0;
+    font-size: 18px;
+    margin-bottom: 80px;
+}
